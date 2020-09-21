@@ -1,0 +1,157 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "BE9X1dd1/VdIPGj9J2PHHFkLwlo=",
+			"path": "github.com/fsnotify/fsnotify",
+			"revision": "7f4cf4dd2b522a984eaca51d1ccee54101d3414a",
+			"revisionTime": "2020-04-17T21:56:12Z"
+		},
+		{
+			"checksumSHA1": "X7+OVur4ERG3+vfd6DFiKPxAir4=",
+			"path": "github.com/hashicorp/hcl",
+			"revision": "d58017782ffeccb02d0f461c8710753e5da49834",
+			"revisionTime": "2020-08-21T21:05:25Z"
+		},
+		{
+			"checksumSHA1": "XQmjDva9JCGGkIecOgwtBEMCJhU=",
+			"path": "github.com/hashicorp/hcl/hcl/ast",
+			"revision": "d58017782ffeccb02d0f461c8710753e5da49834",
+			"revisionTime": "2020-08-21T21:05:25Z"
+		},
+		{
+			"checksumSHA1": "1GmX7G0Pgf5XprOh+T3zXMXX0dc=",
+			"path": "github.com/hashicorp/hcl/hcl/parser",
+			"revision": "d58017782ffeccb02d0f461c8710753e5da49834",
+			"revisionTime": "2020-08-21T21:05:25Z"
+		},
+		{
+			"checksumSHA1": "encY+ZtDf4nJaMvsVL2c+EJ2r3Q=",
+			"path": "github.com/hashicorp/hcl/hcl/printer",
+			"revision": "d58017782ffeccb02d0f461c8710753e5da49834",
+			"revisionTime": "2020-08-21T21:05:25Z"
+		},
+		{
+			"checksumSHA1": "+qJTCxhkwC7r+VZlPlZz8S74KmU=",
+			"path": "github.com/hashicorp/hcl/hcl/scanner",
+			"revision": "d58017782ffeccb02d0f461c8710753e5da49834",
+			"revisionTime": "2020-08-21T21:05:25Z"
+		},
+		{
+			"checksumSHA1": "oS3SCN9Wd6D8/LG0Yx1fu84a7gI=",
+			"path": "github.com/hashicorp/hcl/hcl/strconv",
+			"revision": "d58017782ffeccb02d0f461c8710753e5da49834",
+			"revisionTime": "2020-08-21T21:05:25Z"
+		},
+		{
+			"checksumSHA1": "c6yprzj06ASwCo18TtbbNNBHljA=",
+			"path": "github.com/hashicorp/hcl/hcl/token",
+			"revision": "d58017782ffeccb02d0f461c8710753e5da49834",
+			"revisionTime": "2020-08-21T21:05:25Z"
+		},
+		{
+			"checksumSHA1": "PwlfXt7mFS8UYzWxOK5DOq0yxS0=",
+			"path": "github.com/hashicorp/hcl/json/parser",
+			"revision": "d58017782ffeccb02d0f461c8710753e5da49834",
+			"revisionTime": "2020-08-21T21:05:25Z"
+		},
+		{
+			"checksumSHA1": "afrZ8VmAwfTdDAYVgNSXbxa4GsA=",
+			"path": "github.com/hashicorp/hcl/json/scanner",
+			"revision": "d58017782ffeccb02d0f461c8710753e5da49834",
+			"revisionTime": "2020-08-21T21:05:25Z"
+		},
+		{
+			"checksumSHA1": "fNlXQCQEnb+B3k5UDL/r15xtSJY=",
+			"path": "github.com/hashicorp/hcl/json/token",
+			"revision": "d58017782ffeccb02d0f461c8710753e5da49834",
+			"revisionTime": "2020-08-21T21:05:25Z"
+		},
+		{
+			"checksumSHA1": "e6HK+0f/M3JZVVAqne+J6+q1h6I=",
+			"path": "github.com/magiconair/properties",
+			"revision": "e55ec40311b90df900426eae806bb80a40154583",
+			"revisionTime": "2020-09-14T13:41:51Z"
+		},
+		{
+			"checksumSHA1": "T2p2m6Csesrx1ddIDlcxkBduMVQ=",
+			"path": "github.com/mitchellh/mapstructure",
+			"revision": "9e1e4717f8567d7ead72d070d064ad17d444a67e",
+			"revisionTime": "2020-07-22T16:00:30Z"
+		},
+		{
+			"checksumSHA1": "keZpaIrNitOl6QwTcQUt+FdLSC0=",
+			"path": "github.com/pelletier/go-toml",
+			"revision": "e6908614ee78e01b71b0adadb1379acff6da9320",
+			"revisionTime": "2020-09-13T22:46:13Z"
+		},
+		{
+			"checksumSHA1": "YujZmA0sKE7SKTd2lLqBSgg4ai8=",
+			"path": "github.com/spf13/afero",
+			"revision": "a4ea980f2d023f22c7eede4c142190115449de5b",
+			"revisionTime": "2020-09-14T18:44:56Z"
+		},
+		{
+			"checksumSHA1": "cSgOsaZX5GETq2Jxfgz3Y6PkoM0=",
+			"path": "github.com/spf13/afero/mem",
+			"revision": "a4ea980f2d023f22c7eede4c142190115449de5b",
+			"revisionTime": "2020-09-14T18:44:56Z"
+		},
+		{
+			"checksumSHA1": "SXitj+4jaTUu0oLjf7+LBPASTUk=",
+			"path": "github.com/spf13/cast",
+			"revision": "8d17101741c81653ee960aa20f9febb31f1218aa",
+			"revisionTime": "2020-07-23T21:45:38Z"
+		},
+		{
+			"checksumSHA1": "ZSMfT52Xh2gJWQJ4zn07NogjUVc=",
+			"path": "github.com/spf13/jwalterweatherman",
+			"revision": "ce7498392da6d96a17a449ce0e96172af864d822",
+			"revisionTime": "2020-08-24T10:31:34Z"
+		},
+		{
+			"checksumSHA1": "ZCkvlhpIvDEtkO5t08eu2WkvBpU=",
+			"path": "github.com/spf13/pflag",
+			"revision": "6971c29c4a22981adeaee7f4b437c0cffe08c031",
+			"revisionTime": "2020-09-10T15:26:56Z"
+		},
+		{
+			"checksumSHA1": "QUIYkmDmokw/m/QhWhYgvlMqqsc=",
+			"path": "github.com/spf13/viper",
+			"revision": "d9d7dcdc6399b74695d0be0c5051bc4443c263c6",
+			"revisionTime": "2020-09-11T15:49:29Z"
+		},
+		{
+			"checksumSHA1": "g+CE3DkIsVrWNX2sZgZDqg+045U=",
+			"path": "github.com/subosito/gotenv",
+			"revision": "81e80d2d867a44e9961d23d376cf2c4955e700ca",
+			"revisionTime": "2020-08-22T01:15:49Z"
+		},
+		{
+			"path": "golang.org/x/sys/unix",
+			"revision": ""
+		},
+		{
+			"path": "golang.org/x/text/transform",
+			"revision": ""
+		},
+		{
+			"path": "golang.org/x/text/unicode/norm",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "jrVdwd5Kks5X28eCcLWIjoJcOeU=",
+			"path": "gopkg.in/ini.v1",
+			"revision": "fcd0515f91612282aba5f5231a7dd71487e6dd8f",
+			"revisionTime": "2020-09-05T08:15:51Z"
+		},
+		{
+			"checksumSHA1": "wZxi5gt6Zfs4vh8795dNA/lva7g=",
+			"path": "gopkg.in/yaml.v2",
+			"revision": "0b1645d91e851e735d3e23330303ce81f70adbe3",
+			"revisionTime": "2020-05-06T23:08:38Z"
+		}
+	],
+	"rootPath": "clear"
+}
